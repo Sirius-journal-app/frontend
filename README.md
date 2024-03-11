@@ -1,2 +1,2 @@
 # frontend
-Frontend of the sirius-journal written using VueJS
+Client part of the sirius-journal written using VueJS
